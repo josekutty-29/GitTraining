@@ -2,3 +2,4 @@ Learning Git Day 1
 Learning Git Day 2
 working on inventory functionality
 working on preparing report on a particular feature
+conflict demo from branch
